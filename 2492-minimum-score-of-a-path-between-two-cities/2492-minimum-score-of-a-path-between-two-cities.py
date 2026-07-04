@@ -1,20 +1,18 @@
 class Solution:
     def minScore(self, n: int, roads: List[List[int]]) -> int:
         graph = {i: [] for i in range(1, n + 1)}
-        for city1, city2, distance in roads:
-            graph[city1].append((city2, distance))
-            graph[city2].append((city1, distance))
-        visited_cities = set()
-        visited_cities.add(1)
-        queue = [1]
-        minimum_score = float('inf')
-        while len(queue) > 0:
-            current_city = queue.pop(0)
-            for next_city, distance in graph[current_city]:
-                if distance < minimum_score:
-                    minimum_score = distance
-                if next_city not in visited_cities:
-                    visited_cities.add(next_city)
-                    queue.append(next_city)
-        return minimum_score
-
+        for u, v, dis in roads:
+            graph[u].append((v, dis))
+            graph[v].append((u, dis))
+        visit = set()
+        visit.add(1)
+        q = [1]
+        ans = float("inf")
+        while q:
+            node = q.pop(0)
+            for nei, dis in graph[node]:
+                ans = min(ans, dis)
+                if nei not in visit:
+                    visit.add(nei)
+                    q.append(nei)
+        return ans
