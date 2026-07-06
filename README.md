@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumansingh20/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumansingh20/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sumansingh20/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sumansingh20/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sumansingh20/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sumansingh20/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sumansingh20/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sumansingh20/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sumansingh20/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sumansingh20/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -97,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sumansingh20/LeetCode/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sumansingh20/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sumansingh20/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
