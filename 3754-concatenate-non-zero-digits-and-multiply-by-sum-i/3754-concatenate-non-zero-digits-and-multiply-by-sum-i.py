@@ -1,10 +1,16 @@
 class Solution:
     def sumAndMultiply(self, n: int) -> int:
-        nums = str(n)
-        x = 0
+        if n == 0:
+            return 0
+        nums = []
         total = 0
-        for i in range(len(nums)):
-            if nums[i] != "0":
-                x = x * 10 + int(nums[i])
-                total += int(nums[i])
+        while n > 0:
+            digit = n % 10
+            if digit != 0:
+                nums.append(digit)
+                total += digit
+            n //= 10
+        x = 0
+        for i in range(len(nums) - 1, -1, -1):
+            x = x * 10 + nums[i]
         return x * total
