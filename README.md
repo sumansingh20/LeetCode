@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumansingh20/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/sumansingh20/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumansingh20/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumansingh20/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sumansingh20/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sumansingh20/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sumansingh20/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sumansingh20/LeetCode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/sumansingh20/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumansingh20/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sumansingh20/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sumansingh20/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/sumansingh20/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/sumansingh20/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sumansingh20/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sumansingh20/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sumansingh20/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sumansingh20/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sumansingh20/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sumansingh20/LeetCode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/sumansingh20/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sumansingh20/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
