@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sumansingh20/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumansingh20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/sumansingh20/LeetCode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumansingh20/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/sumansingh20/LeetCode/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/sumansingh20/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/sumansingh20/LeetCode/tree/master/0877-stone-game) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumansingh20/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumansingh20/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumansingh20/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sumansingh20/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
