@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumansingh20/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sumansingh20/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sumansingh20/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2460-apply-operations-to-an-array](https://github.com/sumansingh20/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sumansingh20/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sumansingh20/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sumansingh20/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumansingh20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2460-apply-operations-to-an-array](https://github.com/sumansingh20/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sumansingh20/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sumansingh20/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sumansingh20/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2460-apply-operations-to-an-array](https://github.com/sumansingh20/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sumansingh20/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sumansingh20/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sumansingh20/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
